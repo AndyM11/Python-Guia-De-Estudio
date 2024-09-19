@@ -1,1 +1,8 @@
 /Web
+
+# Ignorar la caché de mypy
+.mypy_cache/
+
+# Ignorar la caché de Python
+__pycache__/
+*.py[cod]
